@@ -55,7 +55,7 @@ What changed **after** adding it?
 
 Using **Show media queries** and dragging slowly from 360 px to 1280 px, the layout changed at these exact widths:
 
-> (write the widths here, and say whether any width looked broken)
+> At 768px, the nav changed to one row with the brand on the left and the links on the right, the checkbox and “Forgot password?” moved into one row, and the two buttons went side by side. At 1024px, the brand panel and login card went side by side, the footer changed to three columns, and the heading got larger. At 1280px, the content stopped growing at 1200px and stayed centered. No width looked broken.
 
 Screenshots are in `screenshots/` as `360.png`, `768.png`, `1024.png`, `1280.png`.
 
