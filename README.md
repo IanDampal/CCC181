@@ -61,4 +61,4 @@ Screenshots are in `screenshots/` as `360.png`, `768.png`, `1024.png`, `1280.png
 
 ## What our group learned (leader writes this last)
 
-> (write your answer here)
+> We learned that mobile-first means writing the phone styles first and then using min-width media queries to add changes as the screen gets bigger. The viewport meta tag is needed or phones show a shrunken desktop page. Each member worked in a separate CSS file (base, nav and form) that all use the same variables from reset.css, so the design stayed consistent when we combined them. We also learned to use CSS Grid for page layouts such as the two-column login and the three-column footer, and Flexbox for rows and columns of items like the navbar, form and buttons. Testing at 360, 768, 1024 and 1280px in DevTools showed us that each breakpoint matters.
