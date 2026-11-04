@@ -23,17 +23,17 @@ npm run build        # must finish with no errors before you submit
 
 | Item | Your answer |
 | --- | --- |
-| Group number | |
-| Section | |
-| Repository URL | |
+| Group number | 9 |
+| Section | IT3 - A|
+| Repository URL |https://github.com/IanDampal/CCC181/edit/main/README.md |
 
 ## Members (each member fills in their own row in their own commit)
 
 | Member | Name | GitHub username | CSS file | What I did |
 | --- | --- | --- | --- | --- |
-| 1 (leader) | | | `base.css` | |
-| 2 | | | `nav.css` | |
-| 3 | | | `form.css` | |
+| 1 | Kirtz Darwin D. Federico | | `base.css` | |
+| 2 | Ian Clifford G. Dampal| | `nav.css`, `index.html` | |
+| 3 | Rumer V. Abriol| | `form.css` | |
 
 ## Experiment 0: the page without the viewport tag
 
