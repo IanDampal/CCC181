@@ -31,9 +31,9 @@ npm run build        # must finish with no errors before you submit
 
 | Member | Name | GitHub username | CSS file | What I did |
 | --- | --- | --- | --- | --- |
-| 1 | Kirtz Darwin D. Federico | kirtzdarwinfedrico | `base.css` | |
-| 2 | Ian Clifford G. Dampal| IanDampal | `nav.css`, `index.html` | |
-| 3 | Rumer V. Abriol| rumerzzzzz | `form.css` | |
+| 1 | Kirtz Darwin D. Federico | kirtzdarwinfedrico | `base.css` | Styled the page layout, container and brand panel with CSS Grid, mobile-first. The login layout becomes two columns at 1024px, and the container is centered at 1200px. |
+| 2 | Ian Clifford G. Dampal| IanDampal | `nav.css`, `index.html` | Styled the navbar with Flexbox and the footer with CSS Grid. Added the viewport meta tag and linked the CSS files in index.html. |
+| 3 | Rumer V. Abriol| rumerzzzzz | `form.css` | Styled the login card, form fields and buttons with Flexbox. All tap targets are at least 48px, and the buttons and options sit side by side from 768px. |
 
 ## Experiment 0: the page without the viewport tag
 
